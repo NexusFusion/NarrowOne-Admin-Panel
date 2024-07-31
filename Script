@@ -1,0 +1,15 @@
+// ==UserScript==
+// @name         A|v2.6 Narrow.One Admin Panel Obfuscated
+// @namespace    http://tampermonkey.net/
+// @version      2.6
+// @description  Simple Narrow.one Admin Panel(Easter egg located in menu)
+// @author       You
+// @include      *://narrow.one/*
+// @run-at       document-body
+// @grant        unsafeWindow
+// @connect      https://narrow.one/
+// @connect      https://x-blocker.glitch.me/
+// @grant        GM_xmlhttpRequest
+// @require      https://pastes.io/raw/f4q8yqfd1c
+// @icon         https://www.google.com/s2/favicons?sz=64&domain=narrow.one
+// ==/UserScript==
